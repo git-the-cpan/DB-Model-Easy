@@ -1,0 +1,16 @@
+{
+   "depends" : [
+      "DBIish"
+   ],
+   "description" : "Build database models in Perl 6, easily.",
+   "name" : "DB::Model::Easy",
+   "provides" : {
+      "DB::Model::Easy" : "lib/DB/Model/Easy.pm6",
+      "DB::Model::Easy::Row" : "lib/DB/Model/Easy/Row.pm6"
+   },
+   "support" : {
+      "source" : "git://github.com/supernovus/perl6-db-model-easy.git"
+   },
+   "version" : "0.000.001",
+   "version_from_original_meta" : "*"
+}
